@@ -2,11 +2,11 @@
 
 
 
-### I am Latifa! I am currently pursuing M.S in Data Science candidate at the University of Virginia. I have graduated from UVA with a Master's in Public Health in 2020 and with a BA in Biology in May 2018. I am proficient in statistical analysis and predictive modeling, as well as in analytical problem solving. I possess a working knowledge of data analysis and machine learning using Python, SAS, R, and SPSS, database management using SQL, as well as data visualization using Python, R, Tableau, and ArcGIS. I am very hard-working and an exceptional performer, an outstanding team player who always strives to produce quality results.###
+### I am Latifa! I am currently pursuing M.S in Data Science candidate at the University of Virginia. I have graduated from UVA with a Master's in Public Health in 2020 and with a BA in Biology in May 2018. I am proficient in statistical analysis and predictive modeling, as well as in analytical problem solving. I possess a working knowledge of data analysis and machine learning using Python, SAS, R, and SPSS, database management using SQL, as well as data visualization using Python, R, Tableau, and ArcGIS. I am very hard-working and an exceptional performer, an outstanding team player who always strives to produce quality results.
 
 
-##Experiences:
-```markdown
+## Experiences:
+`
 United States Civilian Corps: Data Wrangler Intern                                                                                          Washington DC
                                                                                                                                             March 2020 - August 2020
                                                                                                                                             
@@ -21,7 +21,7 @@ University of Virginia: Quantitative Research Intern                            
 **Bold** and _Italic_ and `Code` tex
 
 [Link](url) and ![Image](src)
-```
+`
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
