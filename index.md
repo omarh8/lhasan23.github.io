@@ -18,7 +18,7 @@ University of Virginia: Quantitative Research Intern                            
                                                                                                                                              September 2019 - December 2019
   - Model building:  Designed a simulation model using Arena simulation software for the UVA CardiologyDepartment for process improvement of surgical prep processes and to           minimize lag times in the catheter labs fortransplant patients. Reduced the lag times in the unit by identifying causes for most lag times and the mostoptimal scenarios.
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and `Code` tex
 
 [Link](url) and ![Image](src)
 ```
@@ -31,4 +31,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out
