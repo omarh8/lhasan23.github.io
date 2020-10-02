@@ -22,9 +22,7 @@
   - Model building:  Designed a simulation model using Arena simulation software for the UVA CardiologyDepartment for process improvement of surgical prep processes and to           minimize lag times in the catheter labs fortransplant patients. Reduced the lag times in the unit by identifying causes for most lag times and the mostoptimal scenarios.
   
  Virginia Department of Health: Data Analytics Intern 
- 
  Richmond, VA
- 
  May 2019 - August 2019
   - Performance tracking system:  Developed the performance measurement system application for use by VDHstaff for all agency programs to track employee performance and        goals.◦Database management and data visualization:  Gathered data from county health databases using SQL andNoSQL to query, analyzed the data to prepare reports for policy  development, and created data visualization usingTableau to update VDH data dashboards.
 
