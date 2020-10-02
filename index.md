@@ -5,15 +5,15 @@
 ### I am Latifa! I am currently pursuing M.S in Data Science candidate at the University of Virginia. I have graduated from UVA with a Master's in Public Health in 2020 and with a BA in Biology in May 2018. I am proficient in statistical analysis and predictive modeling, as well as in analytical problem solving. I possess a working knowledge of data analysis and machine learning using Python, SAS, R, and SPSS, database management using SQL, as well as data visualization using Python, R, Tableau, and ArcGIS. I am very hard-working and an exceptional performer, an outstanding team player who always strives to produce quality results.
 
 ## **Education**:
-University of Virginia
+### University of Virginia
 Charlottesville, VA
-Master of Science in Data Science; GPA: 4.0/4.0
+### Master of Science in Data Science; GPA: 4.0/4.0
 July 2020 - May 2021
 Relevant Coursework:  Linux, Data Visualization, Clustering and Classification, Longitudinal and CategoricalData Analysis, Data Structures and Algorithms, Bayesian Machine Learning, Data Mining, Parallel Computing,Risk Analysis, Time Series Analysis, Forecasting, Advanced Quantitative Analysis, Cloud computing using AWS
 
-University of Virginia
+### University of Virginia
 Charlottesville, VA
-Master of Public Health; GPA: 3.9/4.0
+### Master of Public Health; GPA: 3.9/4.0
 August 2018 - May 2020
 Relevant Coursework:  Statistical and Predictive Modeling, Data management, Biostatistics, Quantitativeresearch, Database management using SQL, Linear programming, Hypothesis Testing, Regression analysis
 
@@ -53,6 +53,9 @@ Relevant Coursework:  Statistical and Predictive Modeling, Data management, Bios
 • Colorectal Cancer Trends Based on Screening Rates:  Examined colorectal cancer trends and determining factorsin screening rates among Americans using SAS and R on CDC data from 2002 - 2017, and created data visualizationusing ArcGIS and R.
 
 • Basketball Player Trends:  Web-scraped data using Python from Basketball-reference.com on players from 1980-2020to analyze player trends and predicted future player stats based on player performance in previous years.
+
+
+
 
 
  ## **Leadership**:
