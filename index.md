@@ -28,8 +28,9 @@
 ``` 
  
  
-```
+
 **Projects**:
+```
  • **Weather Tracking**:  Predicting the likelihood of tornadoes and storms given a set of weather conditions using machinelearning on publicly available data from NOAA from the past   50 years.
  
 • **Natural Language Processing**:  Extracting transcripts and recordings from reading intervention programs, and usingNLP to compare recordings to ”ideal” transcripts to improve on document similarity detection methods used to detectplagiarism, by implementing agile scrum methodology.
@@ -38,8 +39,9 @@
 
 • **Basketball Player Trends**:  Web-scraped data using Python from Basketball-reference.com on players from 1980-2020to analyze player trends and predicted future player stats based on player performance in previous years.
 ```
-```
+
   **Leadership**:
+```
  **UVA DEI Committee**:  Leader of the UVA Diversity, Equity, and Inclusion student committee.  Work torepresent more women and minorities in tech, organize education and tech         training workshops for students,and redirect students to free tech courses and networking opportunities.
  ```
  
