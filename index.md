@@ -16,9 +16,9 @@
    - API management: Curated and analyzed the nationwide database of over 12 million healthcare professionals andintegrated it with third party APIs.
    - Platform management: Managed the online data visualization platform, utilized Azure, Python, and MySQL toaccomplish the assigned tasks                                                                                                                                        
 
-### University of Virginia: Quantitative Research Intern                                                                                         
-### Charlottesville, VA  
-### September 2019 - December 2019
+#### University of Virginia: Quantitative Research Intern                                                                                         
+#### Charlottesville, VA  
+#### September 2019 - December 2019
   - Model building:  Designed a simulation model using Arena simulation software for the UVA CardiologyDepartment for process improvement of surgical prep processes and to           minimize lag times in the catheter labs fortransplant patients. Reduced the lag times in the unit by identifying causes for most lag times and the mostoptimal scenarios.
 
 **Bold** and _Italic_ and `Code` tex
