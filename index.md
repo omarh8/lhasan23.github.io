@@ -1,12 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to my site!
 
-You can use the [editor on GitHub](https://github.com/lhasan23/lhasan23.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### I am Latifa! I am currently pursuing M.S in Data Science candidate at the University of Virginia. I have graduated from UVA with a Master's in Public Health in 2020 and with a BA in Biology in May 2018. I am proficient in statistical analysis and predictive modeling, as well as in analytical problem solving. I possess a working knowledge of data analysis and machine learning using Python, SAS, R, and SPSS, database management using SQL, as well as data visualization using Python, R, Tableau, and ArcGIS. I am very hard-working and an exceptional performer, an outstanding team player who always strives to produce quality results.###
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
