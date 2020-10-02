@@ -28,7 +28,8 @@
 ``` 
  
  
-  **Projects**:
+```
+**Projects**:
  • **Weather Tracking**:  Predicting the likelihood of tornadoes and storms given a set of weather conditions using machinelearning on publicly available data from NOAA from the past   50 years.
  
 • **Natural Language Processing**:  Extracting transcripts and recordings from reading intervention programs, and usingNLP to compare recordings to ”ideal” transcripts to improve on document similarity detection methods used to detectplagiarism, by implementing agile scrum methodology.
@@ -36,9 +37,12 @@
 • **Colorectal Cancer Trends Based on Screening Rates**:  Examined colorectal cancer trends and determining factorsin screening rates among Americans using SAS and R on CDC data from 2002 - 2017, and created data visualizationusing ArcGIS and R.
 
 • **Basketball Player Trends**:  Web-scraped data using Python from Basketball-reference.com on players from 1980-2020to analyze player trends and predicted future player stats based on player performance in previous years.
- 
+```
+```
   **Leadership**:
  **UVA DEI Committee**:  Leader of the UVA Diversity, Equity, and Inclusion student committee.  Work torepresent more women and minorities in tech, organize education and tech         training workshops for students,and redirect students to free tech courses and networking opportunities.
+ ```
+ 
 
 
 
