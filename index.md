@@ -7,8 +7,9 @@
 
 ## Experiences:
 `
-United States Civilian Corps: Data Wrangler Intern                                                                                          Washington DC
-                                                                                                                                            March 2020 - August 2020
+### United States Civilian Corps: Data Wrangler Intern 
+ #### Washington DC
+ #### March 2020 - August 2020
                                                                                                                                             
    - Data collection: Collaborated with partners to collect and analyze large datasets in CSV and JSON formats tohelp identify areas with highest need for healthcare professionals and reallocated resources accordingly.
    - API management: Curated and analyzed the nationwide database of over 12 million healthcare professionals andintegrated it with third party APIs.
