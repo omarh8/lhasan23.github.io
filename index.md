@@ -58,7 +58,8 @@ Relevant Coursework:  Statistical and Predictive Modeling, Data management, Bios
 
 
 
- ## **Leadership**:
+## **Projects**:
+## **Leadership**:
 
  **UVA DEI Committee**:  Leader of the UVA Diversity, Equity, and Inclusion student committee.  Work torepresent more women and minorities in tech, organize education and tech         training workshops for students,and redirect students to free tech courses and networking opportunities.
  
